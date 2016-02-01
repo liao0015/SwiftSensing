@@ -5,3 +5,4 @@ arduino, sensors, real time data analysis, and data visualization
 <li>Instead, this repo is built to organize the project information and progress.</li>
 <li>The whole project is broken down into smaller functional units, and the code for each units will be linked in this repo.</li>
 </ul>
+<p>Please check the <a href="https://github.com/liao0015/SwiftSensing/wiki">wiki page</a> for details.</p>
